@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
 
-# 代码于知乎专栏 https://zhuanlan.zhihu.com/p/32547780 的基础上修改
+# 原始代码借鉴于知乎专栏 https://zhuanlan.zhihu.com/p/32547780
 
 import aiohttp
 import asyncio
